@@ -8,9 +8,10 @@
 
 - [Bash](https://www.gnu.org/software/bash/): `sh`-compatible shell full of features & built ins
 - [Docker](https://www.docker.com/): Run tasks (such as lint) on a container, working on any machine
-- [ShellCheck](https://github.com/koalaman/shellcheck): Tool for picking up warnings & shell script suggestions, run in the pipelines & pre-commit
 - [GitHub Actions](https://github.com/features/actions): Run workflows to lint, build & push docker image
-- [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/): Specification for naming commits
+- [Pre-Commit](https://pre-commit.com/): Run a pre-commit configs locally
+- [ShellCheck](https://github.com/koalaman/shellcheck): Tool for picking up warnings & shell script suggestions, run in the pipelines & pre-commit
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/): Specification for naming commits
 
 ### License 📄
 
