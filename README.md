@@ -1,0 +1,1 @@
+Script for categorizing directories & files based on file types.
