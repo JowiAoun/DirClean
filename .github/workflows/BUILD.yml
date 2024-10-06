@@ -5,26 +5,25 @@ on:
     branches: 'main'
 
 jobs:
-  # lint:
-  #   name: Lint project 🧹
-  #   runs-on: ubuntu-latest
+  lint:
+    name: Lint project 🧹
+    runs-on: ubuntu-latest
 
-  #   steps:
-  #   - 
-  #     name: Checkout repository
-  #     uses: actions/checkout@v4
-  #   - 
-  #     name: Set up ShellCheck
-  #     run: sudo apt-get install -y spellcheck
-  #   - 
-  #     name: Run spellcheck
-  #     run: spellcheck **/*.sh
-
+    steps:
+    - 
+      name: Checkout repository
+      uses: actions/checkout@v4
+    - 
+      name: Set up ShellCheck
+      run: sudo apt-get install -y shellcheck
+    - 
+      name: Run spellcheck
+      run: shellcheck **/*.sh
 
   build:
     name: Create Docker image 📷
     runs-on: ubuntu-latest
-    # needs: [lint]
+    needs: [lint]
     steps:
       - 
         name: Login to Docker Hub
