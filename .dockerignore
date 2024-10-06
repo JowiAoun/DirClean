@@ -1,2 +1,9 @@
+.env
+.DS_Store
+.pytest_cache/
+.pytest/
+.coverage
+.mypy_cache/
+venv/
 logs/
 tmp/
