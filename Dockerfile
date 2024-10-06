@@ -8,4 +8,6 @@ WORKDIR /app
 
 COPY . .
 
+RUN chmod +x bin/dirclean.sh
+
 CMD ["shellcheck", "**/*.sh"]
