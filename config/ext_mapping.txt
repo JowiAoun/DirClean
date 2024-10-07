@@ -1,0 +1,1664 @@
+?Q?:Archive and compressed
+7z:Archive and compressed
+A:Archive and compressed
+AAC:Archive and compressed
+ABB:Archive and compressed
+APK:Archive and compressed
+ACE:Archive and compressed
+ALZ:Archive and compressed
+APPX:Archive and compressed
+APP:Archive and compressed
+AT3:Archive and compressed
+ARC:Archive and compressed
+ARJ:Archive and compressed
+ASS:Archive and compressed
+B:Archive and compressed
+BA:Archive and compressed
+BIN:Archive and compressed
+BKF:Archive and compressed
+BLEND:Archive and compressed
+BZ2:Archive and compressed
+CAB:Archive and compressed
+C4:Archive and compressed
+CALS:Archive and compressed
+XAML:Archive and compressed
+CPT:Archive and compressed
+CS:Archive and compressed
+DAA:Archive and compressed
+DEB:Archive and compressed
+DMG:Archive and compressed
+DDZ:Archive and compressed
+DN:Archive and compressed
+DNG:Archive and compressed
+DPE:Archive and compressed
+EGG:Archive and compressed
+EGT:Archive and compressed
+ECAB:Archive and compressed
+EZIP:Archive and compressed
+ESD:Archive and compressed
+ESS:Archive and compressed
+EXE:Archive and compressed
+FLIPCHART:Archive and compressed
+FUN:Archive and compressed
+FLM:Archive and compressed
+FLP:Archive and compressed
+GBS:Archive and compressed
+GGP:Archive and compressed
+GSC:Archive and compressed
+GD:Archive and compressed
+GHO:Archive and compressed
+GHS:Archive and compressed
+GIF:Archive and compressed
+GIFV:Archive and compressed
+GZ:Archive and compressed
+HEIC:Archive and compressed
+IPG:Archive and compressed
+JAR:Archive and compressed
+JPG:Archive and compressed
+JPEG:Archive and compressed
+LAWRENCE:Archive and compressed
+LBR:Archive and compressed
+LLSP3:Archive and compressed
+LQR:Archive and compressed
+LZH:Archive and compressed
+LZ:Archive and compressed
+LZO:Archive and compressed
+LZMA:Archive and compressed
+LZX:Archive and compressed
+LUA:Archive and compressed
+MBW:Archive and compressed
+MCWORLD:Archive and compressed
+MHTML:Archive and compressed
+MIDI:Archive and compressed
+MID:Archive and compressed
+MLOG:Archive and compressed
+MPQ:Archive and compressed
+NL2PKG:Archive and compressed
+NTH:Archive and compressed
+OAR:Archive and compressed
+OGG:Archive and compressed
+OSG:Archive and compressed
+PAK:Archive and compressed
+PAR:Archive and compressed
+PAR 2:Archive and compressed
+PART:Archive and compressed
+PAF:Archive and compressed
+PEA:Archive and compressed
+PNG:Archive and compressed
+WEBP:Archive and compressed
+PHP:Archive and compressed
+PYK:Archive and compressed
+PK3:Archive and compressed
+PK4:Archive and compressed
+PNJ:Archive and compressed
+PXZ:Archive and compressed
+PY:Archive and compressed
+PYW:Archive and compressed
+PMP:Archive and compressed
+PMS:Archive and compressed
+RAR:Archive and compressed
+RAG:Archive and compressed
+RAGS:Archive and compressed
+RaX:Archive and compressed
+RBXL:Archive and compressed
+RBXLX:Archive and compressed
+RBXM:Archive and compressed
+RBXMX:Archive and compressed
+RPM:Archive and compressed
+SB:Archive and compressed
+SB2:Archive and compressed
+SB3:Archive and compressed
+SEN:Archive and compressed
+SF2:Archive and compressed
+SF3:Archive and compressed
+SF4:Archive and compressed
+SITX:Archive and compressed
+SIS:Archive and compressed
+SISX:Archive and compressed
+SKB:Archive and compressed
+SQ:Archive and compressed
+SRT:Archive and compressed
+SWM:Archive and compressed
+SZS:Archive and compressed
+TAR:Archive and compressed
+GZIP:Archive and compressed
+TAR.GZ:Archive and compressed
+TB:Archive and compressed
+TIB:Archive and compressed
+UHA:Archive and compressed
+UUE:Archive and compressed
+UF2:Archive and compressed
+VIV:Archive and compressed
+VOL:Archive and compressed
+VSA:Archive and compressed
+WAX:Archive and compressed
+WAV:Archive and compressed
+WAVE:Archive and compressed
+WFP:Archive and compressed
+WIM:Archive and compressed
+XAP:Archive and compressed
+XZ:Archive and compressed
+Z:Archive and compressed
+ZOO:Archive and compressed
+ZIP:Archive and compressed
+ZIM:Archive and compressed
+ISO:Physical recordable media archiving
+NRG:Physical recordable media archiving
+IMG:Physical recordable media archiving
+ADF:Physical recordable media archiving
+ADZ:Physical recordable media archiving
+DMS:Physical recordable media archiving
+DSK:Physical recordable media archiving
+D64:Physical recordable media archiving
+SDI:Physical recordable media archiving
+MDS:Physical recordable media archiving
+MDX:Physical recordable media archiving
+DMG:Physical recordable media archiving
+CDI:Physical recordable media archiving
+CUE:Physical recordable media archiving
+CIF:Physical recordable media archiving
+C2D:Physical recordable media archiving
+DAA:Physical recordable media archiving
+B6T:Physical recordable media archiving
+B5T:Physical recordable media archiving
+BWT:Physical recordable media archiving
+FFPPKG:Physical recordable media archiving
+3DXML:Computer-aided design (CAD)
+3MF:Computer-aided design (CAD)
+ACP:Computer-aided design (CAD)
+AMF:Computer-aided design (CAD)
+AEC:Computer-aided design (CAD)
+AEDT:Computer-aided design (CAD)
+AR:Computer-aided design (CAD)
+ART:Computer-aided design (CAD)
+ASC:Computer-aided design (CAD)
+ASM:Computer-aided design (CAD)
+BIN:Computer-aided design (CAD)
+BIM:Computer-aided design (CAD)
+BREP:Computer-aided design (CAD)
+C3D:Computer-aided design (CAD)
+C3P:Computer-aided design (CAD)
+CCC:Computer-aided design (CAD)
+CCM:Computer-aided design (CAD)
+CCS:Computer-aided design (CAD)
+CAD:Computer-aided design (CAD)
+CATDrawing:Computer-aided design (CAD)
+CATPart:Computer-aided design (CAD)
+CATProduct:Computer-aided design (CAD)
+CATProcess:Computer-aided design (CAD)
+cgr:Computer-aided design (CAD)
+CKD:Computer-aided design (CAD)
+CKT:Computer-aided design (CAD)
+CO:Computer-aided design (CAD)
+DAB:Computer-aided design (CAD)
+DRW:Computer-aided design (CAD)
+DFT:Computer-aided design (CAD)
+DGN:Computer-aided design (CAD)
+DGK:Computer-aided design (CAD)
+DMT:Computer-aided design (CAD)
+DXF:Computer-aided design (CAD)
+DWB:Computer-aided design (CAD)
+DWF:Computer-aided design (CAD)
+DWG:Computer-aided design (CAD)
+EASM:Computer-aided design (CAD)
+EDRW:Computer-aided design (CAD)
+EMB:Computer-aided design (CAD)
+EPRT:Computer-aided design (CAD)
+EscPcb:Computer-aided design (CAD)
+EscSch:Computer-aided design (CAD)
+ESW:Computer-aided design (CAD)
+EXCELLON:Computer-aided design (CAD)
+EXP:Computer-aided design (CAD)
+F3D:Computer-aided design (CAD)
+FCStd:Computer-aided design (CAD)
+FM:Computer-aided design (CAD)
+FMZ:Computer-aided design (CAD)
+G:Computer-aided design (CAD)
+GBR:Computer-aided design (CAD)
+GLM:Computer-aided design (CAD)
+GRB:Computer-aided design (CAD)
+GRI:Computer-aided design (CAD)
+GRO:Computer-aided design (CAD)
+IAM:Computer-aided design (CAD)
+ICD:Computer-aided design (CAD)
+IDW:Computer-aided design (CAD)
+IFC:Computer-aided design (CAD)
+IGES:Computer-aided design (CAD)
+dgn:Computer-aided design (CAD)
+cel:Computer-aided design (CAD)
+IO:Computer-aided design (CAD)
+IPN:Computer-aided design (CAD)
+IPT:Computer-aided design (CAD)
+JT:Computer-aided design (CAD)
+MCD:Computer-aided design (CAD)
+MDG:Computer-aided design (CAD)
+model:Computer-aided design (CAD)
+OCD:Computer-aided design (CAD)
+PAR:Computer-aided design (CAD)
+PIPE:Computer-aided design (CAD)
+PLN:Computer-aided design (CAD)
+PRT:Computer-aided design (CAD)
+PSM:Computer-aided design (CAD)
+PSMODEL:Computer-aided design (CAD)
+PWI:Computer-aided design (CAD)
+PYT:Computer-aided design (CAD)
+SKP:Computer-aided design (CAD)
+RLF:Computer-aided design (CAD)
+RVM:Computer-aided design (CAD)
+RVT:Computer-aided design (CAD)
+RFA:Computer-aided design (CAD)
+RXF:Computer-aided design (CAD)
+S12:Computer-aided design (CAD)
+SCAD:Computer-aided design (CAD)
+SCDOC:Computer-aided design (CAD)
+SKP:Computer-aided design (CAD)
+SLDASM:Computer-aided design (CAD)
+SLDDRW:Computer-aided design (CAD)
+SLDPRT:Computer-aided design (CAD)
+dotXSI:Computer-aided design (CAD)
+state:Computer-aided design (CAD)
+STEP:Computer-aided design (CAD)
+STL:Computer-aided design (CAD)
+STD:Computer-aided design (CAD)
+TCT:Computer-aided design (CAD)
+TCW:Computer-aided design (CAD)
+UNV:Computer-aided design (CAD)
+VC6:Computer-aided design (CAD)
+VLM:Computer-aided design (CAD)
+VS:Computer-aided design (CAD)
+WRL:Computer-aided design (CAD)
+X_B:Computer-aided design (CAD)
+X_T:Computer-aided design (CAD)
+XE:Computer-aided design (CAD)
+ZOFZPROJ:Computer-aided design (CAD)
+BRD:Electronic design automation (EDA)
+BSDL:Electronic design automation (EDA)
+CDL:Electronic design automation (EDA)
+CPF:Electronic design automation (EDA)
+DEF:Electronic design automation (EDA)
+Detailed Standard Parasitic Format:Electronic design automation (EDA)
+EDIF:Electronic design automation (EDA)
+FSDB:Electronic design automation (EDA)
+GDSII:Electronic design automation (EDA)
+HEX:Electronic design automation (EDA)
+LEF:Electronic design automation (EDA)
+Liberty (EDA):Electronic design automation (EDA)
+MS12:Electronic design automation (EDA)
+OASIS:Electronic design automation (EDA)
+OpenAccess:Electronic design automation (EDA)
+PSF:Electronic design automation (EDA)
+PSFXL:Electronic design automation (EDA)
+SDC:Electronic design automation (EDA)
+SDF:Electronic design automation (EDA)
+SPEF:Electronic design automation (EDA)
+SPI:Electronic design automation (EDA)
+CIR:Electronic design automation (EDA)
+SREC:Electronic design automation (EDA)
+S19:Electronic design automation (EDA)
+SST2:Electronic design automation (EDA)
+STIL:Electronic design automation (EDA)
+SV:Electronic design automation (EDA)
+S*P:Electronic design automation (EDA)
+TLF:Electronic design automation (EDA)
+UPF:Electronic design automation (EDA)
+V:Electronic design automation (EDA)
+VCD:Electronic design automation (EDA)
+VHD:Electronic design automation (EDA)
+VHDL:Electronic design automation (EDA)
+WGL:Electronic design automation (EDA)
+4DB:Database
+4DC:Database
+4DD:Database
+4DIndy:Database
+4DIndx:Database
+4DR:Database
+4DZ:Database
+ACCDB:Database
+ACCDE:Database
+ADT:Database
+APR:Database
+BOX:Database
+CHML:Database
+DAF:Database
+DAT:Database
+DB:Database
+DB:Database
+DBF:Database
+DTA:Database
+EGT:Database
+ESS:Database
+EAP:Database
+FDB:Database
+FDB:Database
+FP:Database
+FP3:Database
+FP5:Database
+FP7:Database
+FRM:Database
+GDB:Database
+GTABLE:Database
+KEXI:Database
+KEXIC:Database
+KEXIS:Database
+LDB:Database
+LIRS:Database
+MDA:Database
+MDB:Database
+ADP:Database
+MDE:Database
+MDF:Database
+MYD:Database
+MYI:Database
+NCF:Database
+NSF:Database
+NTF:Database
+NV2:Database
+ODB:Database
+ORA:Database
+PCONTACT:Database
+PDB:Database
+PDI:Database
+PDX:Database
+PRC:Database
+SQL:Database
+REC:Database
+REL:Database
+RIN:Database
+SDB:Database
+SDF:Database
+sqlite:Database
+UDL:Database
+waData:Database
+waIndx:Database
+waModel:Database
+waJournal:Database
+WDB:Database
+WMDB:Database
+Avro:Big Data (Distributed)
+Parquet:Big Data (Distributed)
+ORC:Big Data (Distributed)
+AI:Desktop Publishing
+AVE:Desktop Publishing
+ZAVE:Desktop Publishing
+CDR:Desktop Publishing
+CHP:Desktop Publishing
+pub:Desktop Publishing
+STY:Desktop Publishing
+CAP:Desktop Publishing
+CIF:Desktop Publishing
+VGR:Desktop Publishing
+FRM:Desktop Publishing
+CPT:Desktop Publishing
+DTP:Desktop Publishing
+FM:Desktop Publishing
+GDRAW:Desktop Publishing
+ILDOC:Desktop Publishing
+INDD:Desktop Publishing
+MCF:Desktop Publishing
+PDF:Desktop Publishing
+PMD:Desktop Publishing
+PPP:Desktop Publishing
+PSD:Desktop Publishing
+PUB:Desktop Publishing
+QXD:Desktop Publishing
+SLA:Desktop Publishing
+SCD:Desktop Publishing
+XCF:Desktop Publishing
+0:Document
+1ST:Document
+600:Document
+602:Document
+ABW:Document
+ACL:Document
+AFP:Document
+AMI:Document
+ANS:Document
+ASC:Document
+AWW:Document
+BBeB:Document
+CCF:Document
+CSV:Document
+CWK:Document
+DBK:Document
+DITA:Document
+DOC:Document
+DOCM:Document
+DOCX:Document
+DOT:Document
+DOTX:Document
+DWD:Document
+EGT:Document
+EPUB:Document
+EVTX:Document
+EZW:Document
+FDX:Document
+FTM:Document
+FTX:Document
+GDOC:Document
+guide:Document
+HTML:Document
+HTM:Document
+HWP:Document
+HWPML:Document
+KPUB:Document
+LOG:Document
+LWP:Document
+MBP:Document
+MD:Document
+ME:Document
+MCW:Document
+Mobi:Document
+NB:Document
+nb:Document
+NBP:Document
+NEIS:Document
+NT:Document
+NQ:Document
+ODM:Document
+ODOC:Document
+OSHEET:Document
+OTT:Document
+OMM:Document
+PAGES:Document
+PAP:Document
+PER:Document
+PDR:Document
+PDAX:Document
+PDF:Document
+PROTONDOC:Document
+QUOX:Document
+Radix-64:Document
+RTF:Document
+RPT:Document
+SDW:Document
+SE:Document
+STW:Document
+Sxw:Document
+TeX:Document
+TMDX:Document
+INFO:Document
+Troff:Document
+TXT:Document
+UOF:Document
+UOML:Document
+VIA:Document
+WPD:Document
+WPS:Document
+WPT:Document
+WRD:Document
+WRF:Document
+WRI:Document
+xhtml:Document
+xht:Document
+XML:Document
+XPS:Document
+MYO:Financial records
+MYOB:Financial records
+TAX:Financial records
+YNAB:Financial records
+Tax2010:Financial records
+ABF:Font file
+AFM:Font file
+BDF:Font file
+BMF:Font file
+BRFNT:Font file
+FNT:Font file
+FON:Font file
+MGF:Font file
+OTF:Font file
+PCF:Font file
+PFA:Font file
+PFB:Font file
+PFM:Font file
+FOND:Font file
+SFD:Font file
+SNF:Font file
+TDF:Font file
+TFM:Font file
+TTF:Font file
+TTC:Font file
+UFO:Font file
+WOFF:Font file
+ASC: Geographic information system
+APR: Geographic information system
+DEM: Geographic information system
+E00: Geographic information system
+GeoJSON: Geographic information system
+TopoJSON: Geographic information system
+GeoTIFF: Geographic information system
+GML: Geographic information system
+GPX: Geographic information system
+ITN: Geographic information system
+MXD: Geographic information system
+NTF: Geographic information system
+OV2: Geographic information system
+SHP: Geographic information system
+TAB: Geographic information system
+DTED: Geographic information system
+KML: Geographic information system
+3DT:Graphical information organizers
+ATY:Graphical information organizers
+CAG:Graphical information organizers
+FES:Graphical information organizers
+MGMF:Graphical information organizers
+MM:Graphical information organizers
+MMP:Graphical information organizers
+TPC:Graphical information organizers
+ACT:Color palettes
+ASE:Color palettes
+GPL:Color palettes
+GIMP:Color palettes
+PAL:Color palettes
+ART:Raster graphics
+BLP:Raster graphics
+BMP:Raster graphics
+BTI:Raster graphics
+CD5:Raster graphics
+CIT:Raster graphics
+CPT:Raster graphics
+CR2:Raster graphics
+CLIP:Raster graphics
+CPL:Raster graphics
+DDS:Raster graphics
+DIB:Raster graphics
+DjVu:Raster graphics
+EGT:Raster graphics
+Exif:Raster graphics
+GIF:Raster graphics
+GRF:Raster graphics
+ICNS:Raster graphics
+ICO:Raster graphics
+iff:Raster graphics
+ilbm:Raster graphics
+lbm:Raster graphics
+JNG:Raster graphics
+JPEG:Raster graphics
+JFIF:Raster graphics
+JPG:Raster graphics
+JP2:Raster graphics
+JPS:Raster graphics
+JXL:Raster graphics
+KRA:Raster graphics
+LBM:Raster graphics
+MAX:Raster graphics
+MIFF:Raster graphics
+MNG:Raster graphics
+MSP:Raster graphics
+NEF:Raster graphics
+NITF:Raster graphics
+OTB:Raster graphics
+PBM:Raster graphics
+PC1:Raster graphics
+PC2:Raster graphics
+PC3:Raster graphics
+PCF:Raster graphics
+PCX:Raster graphics
+PDD:Raster graphics
+PDN:Raster graphics
+PGF:Raster graphics
+PGM:Raster graphics
+PI1:Raster graphics
+PI2:Raster graphics
+PI3:Raster graphics
+PICT:Raster graphics
+PNG:Raster graphics
+PNM:Raster graphics
+PNS:Raster graphics
+PPM:Raster graphics
+procreate:Raster graphics
+PSB:Raster graphics
+PSD:Raster graphics
+PSP:Raster graphics
+PX:Raster graphics
+PXM:Raster graphics
+PXR:Raster graphics
+QFX:Raster graphics
+RAW:Raster graphics
+RLE:Raster graphics
+SCT:Raster graphics
+SGI:Raster graphics
+RGB:Raster graphics
+INT:Raster graphics
+BW:Raster graphics
+TGA:Raster graphics
+.tga:Raster graphics
+.targa:Raster graphics
+.icb:Raster graphics
+.vda:Raster graphics
+.vst:Raster graphics
+.pix:Raster graphics
+TIFF:Raster graphics
+tif:Raster graphics
+tiff:Raster graphics
+TIFF/EP:Raster graphics
+VTF:Raster graphics
+WEBP:Raster graphics
+XBM:Raster graphics
+XCF:Raster graphics
+XPM:Raster graphics
+ZIF:Raster graphics
+3DV file:Vector graphics
+AMF:Vector graphics
+AWG:Vector graphics
+AI:Vector graphics
+CGM:Vector graphics
+CDR:Vector graphics
+CMX:Vector graphics
+DP:Vector graphics
+DRAWIO:Vector graphics
+DXF:Vector graphics
+E2D:Vector graphics
+EGT:Vector graphics
+EPS:Vector graphics
+FS:Vector graphics
+GBR:Vector graphics
+ODG:Vector graphics
+MOVIE.BYU:Vector graphics
+RenderMan:Vector graphics
+SVG:Vector graphics
+3DMLW:Vector graphics
+STL:Vector graphics
+.wrl:Vector graphics
+X3D:Vector graphics
+SXD:Vector graphics
+TGAX:Vector graphics
+V2D:Vector graphics
+VDOC:Vector graphics
+VSD:Vector graphics
+VSDX:Vector graphics
+VND:Vector graphics
+WMF:Vector graphics
+EMF:Vector graphics
+ART:Vector graphics
+XAR:Vector graphics
+3DMF:3D graphics
+3DM:3D graphics
+3MF:3D graphics
+3DS:3D graphics
+ABC:3D graphics
+AC:3D graphics
+AMF:3D graphics
+AN8:3D graphics
+AOI:3D graphics
+ASM:3D graphics
+B3D:3D graphics
+BLEND:3D graphics
+BLOCK:3D graphics
+BMD3:3D graphics
+BDL4:3D graphics
+BRRES:3D graphics
+BFRES:3D graphics
+C4D:3D graphics
+Cal3D:3D graphics
+CCP4:3D graphics
+CFL:3D graphics
+COB:3D graphics
+CORE3D:3D graphics
+CTM:3D graphics
+DAE:3D graphics
+DFF:3D graphics
+DPM:3D graphics
+DTS:3D graphics
+EGG:3D graphics
+FACT:3D graphics
+FBX:3D graphics
+G:3D graphics
+GLB:3D graphics
+GLM:3D graphics
+glTF:3D graphics
+.hec:3D graphics
+IO:3D graphics
+IOB:3D graphics
+JAS:3D graphics
+JMESH:3D graphics
+LDR:3D graphics
+LWO:3D graphics
+LWS:3D graphics
+LXF:3D graphics
+LXO:3D graphics
+M3D:3D graphics
+MA:3D graphics
+MAX:3D graphics
+MB:3D graphics
+MPD:3D graphics
+MD2:3D graphics
+MD3:3D graphics
+MD5:3D graphics
+MDX:3D graphics
+MESH:3D graphics
+MESH:3D graphics
+MIOBJECT:3D graphics
+MIPARTICLE:3D graphics
+MIMODEL:3D graphics
+MM3D:3D graphics
+MPO:3D graphics
+MRC:3D graphics
+NIF:3D graphics
+OBJ:3D graphics
+OFF:3D graphics
+OGEX:3D graphics
+PLY:3D graphics
+PRC:3D graphics
+PRT:3D graphics
+POV:3D graphics
+R3D:3D graphics
+RWX:3D graphics
+SIA:3D graphics
+SIB:3D graphics
+SKP:3D graphics
+SLDASM:3D graphics
+SLDPRT:3D graphics
+SMD:3D graphics
+U3D:3D graphics
+USD:3D graphics
+USDA:3D graphics
+USDC:3D graphics
+USDZ:3D graphics
+VIM:3D graphics
+VRML97:3D graphics
+VUE:3D graphics
+VWX:3D graphics
+WINGS:3D graphics
+W3D:3D graphics
+X:3D graphics
+X3D:3D graphics
+Z3D:3D graphics
+ZBMX:3D graphics
+Alias:Links and shortcuts
+JNLP:Links and shortcuts
+LNK:Links and shortcuts
+APPREF-MS:Links and shortcuts
+NAL:Links and shortcuts
+URL:Links and shortcuts
+WEBLOC:Links and shortcuts
+SYM:Links and shortcuts
+.desktop: Links and shortcuts
+Harwell-Boeing:Mathematical
+MML:Mathematical
+ODF:Mathematical
+SXM:Mathematical
+.g3k:Mathematical
+8BF:Object code and executables
+.a:Object code and executables
+.OCX:Object code and executables
+.TLB:Object code and executables
+.VBX:Object code and executables
+.a:Object code and executables
+a.out:Object code and executables
+APK:Object code and executables
+APP:Object code and executables
+.app:Object code and executables
+BAC:Object code and executables
+BPL:Object code and executables
+Bundle:Object code and executables
+.class:Object code and executables
+COFF:Object code and executables
+COM:Object code and executables
+DCU:Object code and executables
+DLL:Object code and executables
+DOL:Object code and executables
+.EAR:Object code and executables
+ELF:Object code and executables
+.exe:Object code and executables
+.EXE:Object code and executables
+.ipa:Object code and executables
+.JAR:Object code and executables
+JEFF:Object code and executables
+.ko:Object code and executables
+LIB:Object code and executables
+LIST:Object code and executables
+Mach-O:Object code and executables
+.NLM:Object code and executables
+.o:Object code and executables
+OBJ:Object code and executables
+RLL:Object code and executables
+.s1es:Object code and executables
+.so:Object code and executables
+.VAP:Object code and executables
+WAR:Object code and executables
+.XAP:Object code and executables
+XBE:Object code and executables
+XCOFF:Object code and executables
+XEX:Object code and executables
+.XPI:Object code and executables
+XSD:Object code and executables
+DVI:Page description language
+.egt:Page description language
+PLD:Page description language
+PCL:Page description language
+PDF:Page description language
+.ps:Page description language
+.ps.gz:Page description language
+SNP:Page description language
+XPS:Page description language
+XSL-FO:Page description language
+CSS:Page description language
+.xslt:Page description language
+.xsl:Page description language
+.tpl:Page description language
+MNB:Personal information manager
+MSG:Personal information manager
+ORG:Personal information manager
+ORG:Personal information manager
+PST:Personal information manager
+OST:Personal information manager
+SC2:Personal information manager
+GSLIDES:Presentation
+KEY:Presentation
+KEYNOTE:Presentation
+NB:Presentation
+NBP:Presentation
+ODP:Presentation
+OTP:Presentation
+PEZ:Presentation
+POT:Presentation
+PRDX:Presentation
+PPS:Presentation
+PPT:Presentation
+PPTX:Presentation
+PRZ:Presentation
+SDD:Presentation
+SHF:Presentation
+SHOW:Presentation
+SHW:Presentation
+SLP:Presentation
+SSPSS:Presentation
+STI:Presentation
+SXI:Presentation
+THMX:Presentation
+WATCH:Presentation
+bib:Reference management software
+enl:Reference management software
+ris:Reference management software
+.fits:Scientific data (data exchange)
+Silo:Scientific data (data exchange)
+SPC:Scientific data (data exchange)
+EAS3:Scientific data (data exchange)
+EOSSA:Scientific data (data exchange)
+OST:Scientific data (data exchange)
+CCP4:Scientific data (data exchange)
+MRC:Scientific data (data exchange)
+HITRAN:Scientific data (data exchange)
+.root:Scientific data (data exchange)
+SDF:Scientific data (data exchange)
+MYD:Scientific data (data exchange)
+CSDM:Scientific data (data exchange)
+NetCDF:Multi-domain
+HDR:Multi-domain
+HDF:Multi-domain
+h4:Multi-domain
+h5:Multi-domain
+SDXF:Multi-domain
+CDF:Multi-domain
+CGNS:Multi-domain
+FMF:Multi-domain
+GRIB:Meteorology
+BUFR:Meteorology
+PP:Meteorology
+NASA-Ames:Meteorology
+CML:Chemistry
+.mol:Chemistry
+.sd:Chemistry
+.sdf:Chemistry
+.dx:Chemistry
+.jdx:Chemistry
+.smi:Chemistry
+AB1:Biology
+ACE:Biology
+ASN.1:Biology
+BAM:Biology
+BCF:Biology
+BED:Biology
+CAF:Biology
+CRAM:Biology
+DDBJ:Biology
+EMBL:Biology
+FASTA:Biology
+FASTQ:Biology
+GCPROJ:Biology
+GenBank:Biology
+GFF:Biology
+GTF:Biology
+MAF:Biology
+NCBI:Biology
+NEXUS:Biology
+NeXML:Biology
+NWK:Biology
+PDB:Biology
+PHD:Biology
+PLN:Biology
+SAM:Biology
+SBML:Biology
+SCF:Biology
+SFF:Biology
+SRA:Biology
+Stockholm:Biology
+Swiss-Prot:Biology
+VCF:Biology
+.dcm:Biomedical imaging
+NIfTI:Biomedical imaging
+.nii:Biomedical imaging
+.nii.gz:Biomedical imaging
+.gii:Biomedical imaging
+.img:Biomedical imaging
+.hdr:Biomedical imaging
+.BRIK:Biomedical imaging
+.HEAD:Biomedical imaging
+.MGH:Biomedical imaging
+.MGZ:Biomedical imaging
+.mnc:Biomedical imaging
+ACQ:Biomedical signals (time series)
+ADICHT:Biomedical signals (time series)
+BCI2000:Biomedical signals (time series)
+BDF:Biomedical signals (time series)
+BKR:Biomedical signals (time series)
+CFWB:Biomedical signals (time series)
+DICOM:Biomedical signals (time series)
+ecgML:Biomedical signals (time series)
+EDF:Biomedical signals (time series)
+EDF+:Biomedical signals (time series)
+FEF:Biomedical signals (time series)
+GDF:Biomedical signals (time series)
+HL7aECG:Biomedical signals (time series)
+MFER:Biomedical signals (time series)
+OpenXDF:Biomedical signals (time series)
+SCP-ECG:Biomedical signals (time series)
+SIGIF:Biomedical signals (time series)
+WFDB:Biomedical signals (time series)
+XDF:Biomedical signals (time series)
+ADB:Programming languages and scripts
+ADS:Programming languages and scripts
+AHK:Programming languages and scripts
+APPLESCRIPT:Programming languages and scripts
+AS:Programming languages and scripts
+AU3:Programming languages and scripts
+AWK:Programming languages and scripts
+BAT:Programming languages and scripts
+BAS:Programming languages and scripts
+BTM:Programming languages and scripts
+CLASS:Programming languages and scripts
+CLS:Programming languages and scripts
+CLJS:Programming languages and scripts
+CMD:Programming languages and scripts
+Coffee:Programming languages and scripts
+C:Programming languages and scripts
+CIA:Programming languages and scripts
+CPP:Programming languages and scripts
+CS:Programming languages and scripts
+DART:Programming languages and scripts
+FS:Programming languages and scripts
+EGG:Programming languages and scripts
+EGT:Programming languages and scripts
+ERB:Programming languages and scripts
+GO:Programming languages and scripts
+HTA:Programming languages and scripts
+IBI:Programming languages and scripts
+ICI:Programming languages and scripts
+IJS:Programming languages and scripts
+INO:Programming languages and scripts
+.ipynb:Programming languages and scripts
+ITCL:Programming languages and scripts
+JS:Programming languages and scripts
+JSFL:Programming languages and scripts
+.kt:Programming languages and scripts
+LUA:Programming languages and scripts
+M:Programming languages and scripts
+MRC:Programming languages and scripts
+NCF:Programming languages and scripts
+NUC:Programming languages and scripts
+NUD:Programming languages and scripts
+NUT:Programming languages and scripts
+nqp:Programming languages and scripts
+O:Programming languages and scripts
+pde:Programming languages and scripts
+PHP:Programming languages and scripts
+PHP?:Programming languages and scripts
+PL:Programming languages and scripts
+PM:Programming languages and scripts
+PS1:Programming languages and scripts
+PS1XML:Programming languages and scripts
+PSC1:Programming languages and scripts
+PSD1:Programming languages and scripts
+PSM1:Programming languages and scripts
+PY:Programming languages and scripts
+PYC:Programming languages and scripts
+PYO:Programming languages and scripts
+R:Programming languages and scripts
+r:Programming languages and scripts
+raku:Programming languages and scripts
+rakumod:Programming languages and scripts
+rakudoc:Programming languages and scripts
+rakutest:Programming languages and scripts
+RB:Programming languages and scripts
+RDP:Programming languages and scripts
+red:Programming languages and scripts
+REX:Programming languages and scripts
+REXX:Programming languages and scripts
+RS:Programming languages and scripts
+SB2:Programming languages and scripts
+SB3:Programming languages and scripts
+SCPT:Programming languages and scripts
+SCPTD:Programming languages and scripts
+SDL:Programming languages and scripts
+SH:Programming languages and scripts
+SPRITE3:Programming languages and scripts
+SPWN:Programming languages and scripts
+SYJS:Programming languages and scripts
+SYPY:Programming languages and scripts
+TCL:Programming languages and scripts
+TNS:Programming languages and scripts
+TS:Programming languages and scripts
+VBS:Programming languages and scripts
+XPL:Programming languages and scripts
+ebuild:Programming languages and scripts
+OMF:Security
+GXK:Certificates and keys
+.ssh:Certificates and keys
+.pub:Certificates and keys
+.ppk:Certificates and keys
+.nSign:Certificates and keys
+.cer:Certificates and keys
+.crt:Certificates and keys
+.der:Certificates and keys
+.p7b:Certificates and keys
+.p7c:Certificates and keys
+.p12:Certificates and keys
+.pfx:Certificates and keys
+PEM:Certificates and keys
+PFX:Certificates and keys
+AXX:Encrypted files
+EEA:Encrypted files
+TC:Encrypted files
+KODE:Encrypted files
+nSignE:Encrypted files
+BPW:Password files
+KDB:Password files
+KDBX:Password files
+ACQ:Signal data (non-audio)
+ADICHT:Signal data (non-audio)
+BKR:Signal data (non-audio)
+BDF:Signal data (non-audio)
+CFG:Signal data (non-audio)
+CFWB:Signal data (non-audio)
+DAT:Signal data (non-audio)
+EDF:Signal data (non-audio)
+FEF:Signal data (non-audio)
+GDF:Signal data (non-audio)
+GMS:Signal data (non-audio)
+IROCK:Signal data (non-audio)
+MFER:Signal data (non-audio)
+SAC:Signal data (non-audio)
+SCP-ECG:Signal data (non-audio)
+SEED:Signal data (non-audio)
+MSEED:Signal data (non-audio)
+SEGY:Signal data (non-audio)
+SIGIF:Signal data (non-audio)
+WIN:Signal data (non-audio)
+WIN32:Signal data (non-audio)
+8SVX:Audio
+16SVX:Audio
+AIFF:Audi
+AIF:Audi
+AIFC:Audi
+AU:Audio
+AUP3:Audio
+BWF:Audio
+CDDA:Audio
+DSF:Audio
+DFF:Audio
+RAW:Audio
+WAV:Audio
+CWAV:Audio
+RA:Audio
+RM:Audio
+FLAC:Audio
+LA:Audio
+PAC:Audio
+APE:Audio
+OFR:Audio
+OFS:Audio
+OFF:Audio
+RKA:Audio
+SHN:Audio
+TAK:Audio
+THD:Audio
+TTA:Audio
+WV:Audio
+WMA:Audio
+BCWAV:Audio
+BRSTM:Audio
+DTS:Audio
+DTSHD:Audio
+DTSMA:Audio
+AST:Audio
+AW:Audio
+PSF:Audio
+AC3:Audio
+AMR:Audio
+MP1:Audio
+MP2:Audio
+MP3:Audio
+SPX:Audio
+GSM:Audio
+WMA:Audio
+AAC:Audio
+MPC:Audio
+VQF:Audio
+OTS:Audio
+SWA:Audio
+VOX:Audio
+VOC:Audio
+DWD:Audio
+SMP:Audio
+OGG:Audio
+MOD:Audio
+MT2:Audio
+S3M:Audio
+XM:Audio
+IT:Audio
+SNG:Audio
+NSF:Audio
+MID:Audio
+MIDI:Audio
+FTM:Audio
+BTM:Audio
+FUR:Audio
+ABC:Audio
+DARMS:Audio
+ETF:Audio
+GP:Audio
+KERN:Audio
+LY:Audio
+MEI:Audio
+MIDI:Audio
+MUS:Audio
+MUSX:Audio
+MXL:Audio
+XML:Audio
+MSCX:Audio
+MSCZ:Audio
+SMDL:Audio
+SIB:Audio
+NIFF:Audio
+PTB:Audio
+ASF:Audio
+CUST:Audio
+GYM:Audio
+JAM:Audio
+MNG:Audio
+RMJ:Audio
+SID:Audio
+SPC:Audio
+TXM:Audio
+VGM:Audio
+YM:Audio
+PVD:Audio
+AIMPPL:Playlist
+ASX:Playlist
+RAM:Playlist
+XPL:Playlist
+XSPF:Playlist
+ZPL:Playlist
+M3U:Playlist
+PLS:Playlist
+ALS:Audio editing and music production
+ALC:Audio editing and music production
+ALP:Audio editing and music production
+ATMOS:Audio editing and music production
+AUP:Audio editing and music production
+AUP3:Audio editing and music production
+BAND:Audio editing and music production
+CEL:Audio editing and music production
+CAU:Audio editing and music production
+CPR:Audio editing and music production
+CWP:Audio editing and music production
+DRM:Audio editing and music production
+DWP:Audio editing and music production
+DMKIT:Audio editing and music production
+ENS:Audio editing and music production
+FLM:Audio editing and music production
+FLP:Audio editing and music production
+GRIR:Audio editing and music production
+LOGIC:Audio editing and music production
+MMP:Audio editing and music production
+MMR:Audio editing and music production
+MX6HS:Audio editing and music production
+NPR:Audio editing and music production
+OMF:Audio editing and music production
+PTX:Audio editing and music production
+PTF:Audio editing and music production
+PTS:Audio editing and music production
+RIN:Audio editing and music production
+RPP:Audio editing and music production
+REAPEAKS:Audio editing and music production
+SES:Audio editing and music production
+SFK:Audio editing and music production
+SFL:Audio editing and music production
+SNG:Audio editing and music production
+STF:Audio editing and music production
+SND:Audio editing and music production
+SYN:Audio editing and music production
+UST:Audio editing and music production
+VCLS:Audio editing and music production
+VPR:Audio editing and music production
+VSQ:Audio editing and music production
+VSQX:Audio editing and music production
+ADA:Source code
+ADB:Source code
+2.ADA:Source code
+ADS:Source code
+1.ADA:Source code
+ASM:Source code
+S:Source code
+BAS:Source code
+BB:Source code
+BMX:Source code
+C:Source code
+CLJ:Source code
+CLS:Source code
+COB:Source code
+CBL:Source code
+CPP:Source code
+CC:Source code
+CXX:Source code
+C:Source code
+CBP:Source code
+CS:Source code
+CSPROJ:Source code
+D:Source code
+DBA:Source code
+DBPro123:Source code
+E:Source code
+EFS:Source code
+EGT:Source code
+EL:Source code
+FOR:Source code
+FTN:Source code
+F:Source code
+F77:Source code
+F90:Source code
+FRM:Source code
+FRX:Source code
+FTH:Source code
+GED:Source code
+GM6:Source code
+GMD:Source code
+GMK:Source code
+GML:Source code
+GO:Source code
+H:Source code
+HPP:Source code
+HXX:Source code
+HS:Source code
+I:Source code
+INC:Source code
+JAVA:Source code
+JS:Source code
+L:Source code
+LGT:Source code
+LISP:Source code
+M:Source code
+M:Source code
+M:Source code
+MAP:Source code
+M4:Source code
+ML:Source code
+MSQR:Source code
+N:Source code
+NB:Source code
+P:Source code
+PAS:Source code
+PP:Source code
+P:Source code
+PHP:Source code
+PHP3:Source code
+PHP4:Source code
+PHP5:Source code
+PHPS:Source code
+Phtml:Source code
+PIV:Source code
+PL:Source code
+PM:Source code
+PLI:Source code
+PL1:Source code
+PRG:Source code
+PRO:Source code
+POL:Source code
+PY:Source code
+R:Source code
+raku:Source code
+rakumod:Source code
+rakudoc:Source code
+rakutest:Source code
+nqp:Source code
+RED:Source code
+REDS:Source code
+RB:Source code
+RESX:Source code
+RC:Source code
+RC2:Source code
+RKT:Source code
+RKTL:Source code
+RS:Source code
+Resources:Source code
+S:Source code
+SCALA:Source code
+SCI:Source code
+SCE:Source code
+SCM:Source code
+SD7:Source code
+SKB:Source code
+SKC:Source code
+SKD:Source code
+SKF:Source code
+SKG:Source code
+SKI:Source code
+SKK:Source code
+SKM:Source code
+SKO:Source code
+SKP:Source code
+SKQ:Source code
+SKS:Source code
+SKT:Source code
+SKZ:Source code
+SLN:Source code
+SPIN:Source code
+STK:Source code
+SWG:Source code
+TCL:Source code
+VAP:Source code
+VB:Source code
+VBG:Source code
+VBP:Source code
+VIP:Source code
+VBPROJ:Source code
+VCPROJ:Source code
+VDPROJ:Source code
+XPL:Source code
+XQ:Source code
+XSL:Source code
+Y:Source code
+123:Spreadsheet
+AB2:Spreadsheet
+AB3:Spreadsheet
+AWS:Spreadsheet
+BCSV:Spreadsheet
+CLF:Spreadsheet
+CELL:Spreadsheet
+CSV:Spreadsheet
+GSHEET:Spreadsheet
+numbers:Spreadsheet
+gnumeric:Spreadsheet
+LCW:Spreadsheet
+ODS:Spreadsheet
+OTS:Spreadsheet
+QPW:Spreadsheet
+PMDX:Spreadsheet
+SDC:Spreadsheet
+SLK:Spreadsheet
+STC:Spreadsheet
+SXC:Spreadsheet
+TAB:Spreadsheet
+TXT:Spreadsheet
+VC:Spreadsheet
+WK1:Spreadsheet
+WK3:Spreadsheet
+WK4:Spreadsheet
+WKS:Spreadsheet
+WKS:Spreadsheet
+WQ1:Spreadsheet
+XLK:Spreadsheet
+XLS:Spreadsheet
+XLSB:Spreadsheet
+XLSM:Spreadsheet
+XLSX:Spreadsheet
+XLR:Spreadsheet
+XLT:Spreadsheet
+XLTM:Spreadsheet
+XLW:Spreadsheet
+TSV:Spreadsheet
+CSV:Spreadsheet
+db:Spreadsheet
+dif:Spreadsheet
+AAF:Video
+3GP:Video
+GIF:Video
+ASF:Video
+AVCHD:Video
+AVI:Video
+.bik:Video
+BRAW:Video
+CAM:Video
+COLLAB:Video
+DAT:Video
+DVR-MS:Video
+FLV:Video
+MPEG-1:Video
+MPEG-2:Video
+NOA:Video
+FLA:Video
+FLR:Video
+SOL:Video
+STR:Video
+M4V:Video
+.mkv:Video
+WRAP:Video
+MNG:Video
+.mov:Video
+.mpeg:Video
+.mpg:Video
+.mpe:Video
+THP:Video
+MPEG-4:Video
+MXF:Video
+ROQ:Video
+NSV:Video
+Ogg:Video
+RM:Video
+SVI:Video
+SMI:Video
+.smk:Video
+SWF:Video
+.TORRENT:Video
+WMV:Video
+WTV:Video
+YUV:Video
+WebM:Video
+BRAW:Video
+DRP:Video
+FCP:Video
+MSWMM:Video
+PPJ:Video
+PRPROJ:Video
+AEP:Video
+IMOVIEPROJ:Video
+VEG:Video
+VEG-BAK:Video
+SUF:Video
+WLMP:Video
+KDENLIVE:Video
+VPJ:Video
+MOTN:Video
+IMOVIEMOBILE:Video
+WFP:Video
+WVE:Video
+PDS:Video
+VPROJ:Video
+.a26:Video game storage media
+.a52:Video game storage media
+.a78:Video game storage media
+.lnx:Video game storage media
+.jag:Video game storage media
+.j64:Video game storage media
+.iso:Video game storage media
+.wbfs:Video game storage media
+.wad:Video game storage media
+.wdf:Video game storage media
+.gcm:Video game storage media
+.min:Video game storage media
+.nds:Video game storage media
+.dsi:Video game storage media
+.3ds:Video game storage media
+.cia:Video game storage media
+.gb:Video game storage media
+.gbc:Video game storage media
+.gba:Video game storage media
+.sav:Video game storage media
+.sgm:Video game storage media
+.n64:Video game storage media
+.v64:Video game storage media
+.z64:Video game storage media
+.u64:Video game storage media
+.usa:Video game storage media
+.jap:Video game storage media
+.pal:Video game storage media
+.eur:Video game storage media
+.bin:Video game storage media
+.pj:Video game storage media
+.nes:Video game storage media
+.fds:Video game storage media
+.jst:Video game storage media
+.fc#:Video game storage media
+.gg:Video game storage media
+.sms:Video game storage media
+.sg:Video game storage media
+.smd:Video game storage media
+.bin:Video game storage media
+.32x:Video game storage media
+.smc:Video game storage media
+.078:Video game storage media
+.sfc:Video game storage media
+.fig:Video game storage media
+.srm:Video game storage media
+.zst:Video game storage media
+.zs1:Video game storage media
+.zs9:Video game storage media
+.z10:Video game storage media
+.z99:Video game storage media
+.frz:Video game storage media
+.000:Video game storage media
+.008:Video game storage media
+.pce:Video game storage media
+.npc:Video game storage media
+.ngp:Video game storage media
+.ngc:Video game storage media
+.vb:Video game storage media
+.int:Video game storage media
+.min:Video game storage media
+.vec:Video game storage media
+.bin:Video game storage media
+.ws:Video game storage media
+.wsc:Video game storage media
+.tzx:Video game storage media
+TAP:Video game storage media
+Z80:Video game storage media
+SNA:Video game storage media
+DSK:Video game storage media
+.tap:Video game storage media
+T64:Video game storage media
+D64:Video game storage media
+CRT:Video game storage media
+.adf:Video game storage media
+ADZ:Video game storage media
+DMS:Video game storage media
+.pss:Video game storage media
+.nsp:Video game storage media
+.xci:Video game storage media
+.vfd:Virtual machines
+.vhd:Virtual machines
+.vud:Virtual machines
+.vmc:Virtual machines
+.vsv:Virtual machines
+.log:Virtual machines
+.vmdk:Virtual machines
+.dsk:Virtual machines
+.nvram:Virtual machines
+.vmem:Virtual machines
+.vmsd:Virtual machines
+.vmsn:Virtual machines
+.vmss:Virtual machines
+.std:Virtual machines
+.vmtm:Virtual machines
+.vmx:Virtual machines
+.cfg:Virtual machines
+.vmxf:Virtual machines
+.vbox:Virtual machines
+.vdi:Virtual machines
+.vbox-extpack:Virtual machines
+.hdd:Virtual machines
+.pvs:Virtual machines
+.sav:Virtual machines
+.cow:Virtual machines
+.qcow:Virtual machines
+.qcow2:Virtual machines
+.qed:Virtual machines
+DTD:Web page
+.html:Web page
+.htm:Web page
+.xhtml:Web page
+.xht:Web page
+.mht:Web page
+.mhtml:Web page
+.maff:Web page
+.asp:Web page
+.aspx:Web page
+.adp:Web page
+.bml:Web page
+.cfm:Web page
+.cgi:Web page
+.ihtml:Web page
+.jsp:Web page
+.las:Web page
+.lasso:Web page
+.lassoapp:Web page
+.pl:Web page
+.php:Web page
+.php?:Web page
+.phtml:Web page
+.shtml:Web page
+.stm:Web page
+.atom:Markup
+.xml:Markup
+.eml:Markup
+.jsonld:Markup
+.kprx:Markup
+.ps:Markup
+.metalink:Markup
+.met:Markup
+.rss:Markup
+.markdown:Markup
+.md:Markup
+.se:Markup
+ANI:Cursors
+CUR:Cursors
+Smes:Cursors
+CSV:General
+HTML:General
+CSS:General
+INI:General
+JSON:General
+TSV:General
+XML:General
+YAML:General
+ReStructuredText:General
+.md:General
+AsciiDoc:General
+.yni:General
+.bak:Binary
+.bk:Binary
+BIN:Binary
+DAT:Binary
+DSK:Binary
+RAW:Binary
+SZH:Binary
+.cnf:Text
+.conf:Text
+.cfg:Text
+.log:Text
+.asc:Text
+.text:Text
+.txt:Text
+.temp:Temporary files
+.tmp:Temporary files
+Pseudo-pipelines:Temporary files
+Pseudo-pipeline:Temporary files
