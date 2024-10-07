@@ -1,3 +1,10 @@
+# Build output
+bin/dirclean.sh.x.c
+
+# Executable
+dirclean.exe
+
+# Other
 logs/
 tmp/
 .env
