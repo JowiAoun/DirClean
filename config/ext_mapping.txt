@@ -276,7 +276,6 @@ BSDL:Electronic design automation (EDA)
 CDL:Electronic design automation (EDA)
 CPF:Electronic design automation (EDA)
 DEF:Electronic design automation (EDA)
-Detailed Standard Parasitic Format:Electronic design automation (EDA)
 EDIF:Electronic design automation (EDA)
 FSDB:Electronic design automation (EDA)
 GDSII:Electronic design automation (EDA)
@@ -966,6 +965,7 @@ SCP-ECG:Biomedical signals (time series)
 SIGIF:Biomedical signals (time series)
 WFDB:Biomedical signals (time series)
 XDF:Biomedical signals (time series)
+Dockerfile:Programming languages and scripts
 ADB:Programming languages and scripts
 ADS:Programming languages and scripts
 AHK:Programming languages and scripts
@@ -1660,5 +1660,3 @@ SZH:Binary
 .txt:Text
 .temp:Temporary files
 .tmp:Temporary files
-Pseudo-pipelines:Temporary files
-Pseudo-pipeline:Temporary files
