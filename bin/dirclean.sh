@@ -14,15 +14,17 @@ function main() {
   directory=.
   log=false
   dry_run=false
+  copy=false
   
   # Read all positional arguments
-  while getopts ":hvlnd:" opt; do
+  while getopts ":hvlncd:" opt; do
     case ${opt} in
       h ) print_help ; exit 0 ;;
       v ) print_version "$version"; exit 0 ;;
       d ) directory=$OPTARG ; echo "Directory to organize: '$directory'" ;;
       l ) log=true ;;
       n ) dry_run=true ;;
+      c ) copy=true ;;
       \? ) print_invalid_opt "$OPTARG" ; exit 1 ;;
       : ) print_invalid_value "$OPTARG" ; exit 1 ;;
     esac
@@ -35,8 +37,9 @@ function main() {
 
   # Organize
   if [[ $dry_run == false ]]; then
-    organize _mapping "$log" "$directory"
+    organize _mapping "$log" "$directory" "$copy"
   else
+    echo "-------"
     echo "Because this was a dry run, no modifications were completed."
   fi
 }

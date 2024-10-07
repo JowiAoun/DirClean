@@ -7,6 +7,7 @@ function print_help() {
         -d, --directory   Directory to organize. Default: current directory.
         -l, --log         Enable logging.
         -n, --dry-run     Perform dry-run to preview changes.
+        -c, --copy        Copy instead of moving directories.
         ">&2
 }
 

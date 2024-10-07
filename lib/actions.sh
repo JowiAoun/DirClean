@@ -71,7 +71,11 @@ function organize() {
     mkdir -p "$target_dir"
 
     if [[ -f "$key" || -d "$key" ]]; then
-      cp -r "$key" "$target_dir"
+      if [[ "$4" == false ]]; then
+        mv -r "$key" "$target_dir"
+      else
+        cp -r "$key" "$target_dir"
+      fi
     else
       echo "File '$key' does not exist -> Skipping"
     fi
