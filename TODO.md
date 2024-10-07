@@ -1,9 +1,11 @@
-[x] Create main entry point, test it out
-[x] Attempt using with CLI
-[x] Make CLI help command
-[ ] Add configs
-[x] Add linter
+[x] Create main entry point
 [x] Initialize README
+[x] Make CLI help command
+[x] Add linter
+[x] Preview changes with dry run
+[x] Implement categories based on filetypes ([this wikipedia page](https://en.wikipedia.org/wiki/List_of_file_formats#Video_game_data))
+[ ] Allow to clean other directories
+[ ] Add configs
 [ ] Set up Semantic-release
-[ ] Preview files in categories
-[ ] Add a way to undo action, could use log
+[ ] Allow undo of an operation
+  - Potentially using logs
