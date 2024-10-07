@@ -22,6 +22,6 @@ function print_invalid_value() {
   echo "Option '-$1' requires an argument" >&2
 }
 
-function print_run() {
-  echo "Run" #TODO, and pick up dry_run flag
+function print_invalid_file_or_dir() {
+  echo "File '$1' does not exist" >&2
 }

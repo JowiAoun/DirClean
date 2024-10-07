@@ -10,7 +10,7 @@ source ./lib/actions.sh
 # Main function to the program.
 function main() {
 
-  # Create default argument values
+  # Set default argument values
   directory=.
   log=false
   dry_run=false
@@ -30,13 +30,14 @@ function main() {
   shift $((OPTIND - 1))
 
   # Create mapping of current directories to new directories
-  create_mapping "$directory" "$log"
+  declare -A _mapping
+  create_mapping _mapping "$directory"
 
   # Organize
   if [[ $dry_run == false ]]; then
-    organize #TODO: provide mapping
+    organize _mapping "$log"
   else
-    echo "This was a dry run, therefore no modifications were completed."
+    echo "Because this was a dry run, no modifications were completed."
   fi
 }
 
