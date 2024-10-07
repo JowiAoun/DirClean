@@ -35,7 +35,7 @@ function main() {
 
   # Organize
   if [[ $dry_run == false ]]; then
-    organize _mapping "$log"
+    organize _mapping "$log" "$directory"
   else
     echo "Because this was a dry run, no modifications were completed."
   fi
