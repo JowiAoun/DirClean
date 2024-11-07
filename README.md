@@ -8,7 +8,7 @@
 
 ### Technologies 🤖
 
-- [Bash](https://www.gnu.org/software/bash/): `sh`-compatible shell full of features & built ins
+- [Bash](https://www.gnu.org/software/bash/): `sh`-compatible shell full of features & built-ins
 - [Docker](https://www.docker.com/): Run tasks (such as lint) on a container, working on any machine
 - [GitHub Actions](https://github.com/features/actions): Run workflows to lint, build & push docker image
 - [Pre-Commit](https://pre-commit.com/): Run a pre-commit configs locally
@@ -17,7 +17,13 @@
 
 ### Configuration ⚙️
 
-Configurating the new location of a file extension can be done by navigating to `config/ext_mapping` and looking up the extension.
+Configurating a new location for a file extension can be done by navigating to `config/ext_mapping.txt` and looking up the extension. New file extensions can also be added.
+
+### Motivation 🚵
+
+I received an interview at [Nokia](https://careers.nokia.com/jobs/7750-7250-software-test-infra-student-101668) as a [7750/7250 Software Test Infra Student](https://careers.nokia.com/jobs/7750-7250-software-test-infra-student-101668), had all the technical & intrapersonal skills asked for, but had never wrote a single line of code in a `.sh` file. After the first interview, I had a genuine interest in the *bourne-again shell* and how easy it was to automate tasks with it. Looking around for a problem to solve, I found that my `Downloads/` directory was very unclean, with over a **hundred** different files dating back from 2 years ago! And so, I made this program in one day with the many added tools, and turned my more than a hundred files directory into 5 directories that I could easily organize after running a single command.
+
+I was also very fortunate to receive the internship at Nokia 😃!
 
 ### License 📄
 
